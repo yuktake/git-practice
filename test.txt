@@ -1,2 +1,2 @@
 second commit
-this text will be overridden by rebase branch.
+this is rebase branch text!!! (this will be rebased by develop branch).
