@@ -1,1 +1,2 @@
 second commit
+this text will be overridden by rebase branch.
